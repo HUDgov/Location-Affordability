@@ -1,0 +1,65 @@
+﻿    .CS_Home{width: 900px; margin-left: 25px;  margin-bottom: 20px;float: left; clear: both; border-top: navy solid 1px; border-bottom: navy solid 1px; position: relative;}
+    .CS_Home h2{margin-top:0px !important; padding-top: 0px; font-size: 1.05em !important;}
+    p#note{font-size: 0.8em !important; color: #666; font-style: italic; font-weight: bolder; width:930px; margin-left: 25px;}
+
+    .CS_Home .cs_mainimage{float: left; margin: 0 10px 5px 0; width: 226px;}
+    .CS_Home .cs_secondimage{float: right; margin: 0 0 10px 10px; width: 226px;}
+    .CS_Home .cs_thirdimage{float: left; margin: 5px 10px 5px 0; width: 226px;}
+    .CS_Home .cs_fourthimage{float: right; margin: 0 0 0 10px; width: 226px;}
+    
+    .CS_Home .cs_floatleft{float: left; margin: 5px 10px 5px 0; }
+    .CS_Home .cs_floatright{float: right; margin: 5px 10px 5px 0; }
+    
+    .CS_Home .CS_right{float: left; margin: 0; padding: 0; width: 650px; position: relative;}
+    .CS_Home .CS_rightwider{float: left; margin: 0; padding: 0; width: 900px; position: relative;}
+    .CS_Home .CS_right p, .CS_Home .CS_rightwider p{font-size: 0.75em; margin: 0; padding: 3px 0;}
+
+    .CS_Home .CS_right_home {float: left; margin: 0; padding: 0; width: 650px; position: relative; height: 140px;}
+    .CS_Home .CS_right_home p{font-size: 0.75em; margin: 0; padding: 3px 0;}
+
+
+    .CS_Home .CS_left{float: left; margin: 0; padding: 0; width: 900px;}
+    .CS_Home .CS_left p{font-size: 0.75em; margin: 0; padding: 3px 0;}
+    
+    .CS_Home .CS_full{float: left; margin: 10px 0 20px 0; padding: 0; width: 900px;}
+    .CS_Home .CS_full p{font-size: 0.75em; margin: 0; padding: 3px 0;}
+
+    .CS_Home .CS_expand1{float: left; margin: 22px 0 20px 0; padding: 0; width: 900px; position: relative; background: url(../images/cs1_expand.jpg) center no-repeat; height: 525px;}
+    .CS_Home .CS_expand1 p{font-size: 0.75em; margin: 0; padding: 3px 0; width: 300px; position: absolute; top:30px; left: 0;}
+    .CS_Home .CS_expand2{float: left; margin: 22px 0 20px 0; padding: 0; width: 900px; position: relative;  background: url(../images/cs2_expand.jpg) center no-repeat; height: 525px;}
+    .CS_Home .CS_expand2 p{font-size: 0.85em; margin: 0; padding: 3px 0; width: 300px; position: absolute; top:30px; left: 0;}
+    .CS_Home .CS_expand3{float: left; margin: 20px 0 20px 0; padding: 0; width: 900px; position: relative;  background: url(../images/cs3_expand.jpg) center no-repeat; height: 557px;}
+    .CS_Home .CS_expand3 p{font-size: 0.85em; margin: 0; padding: 3px 0; width: 300px; position: absolute; top:30px; left: 0;}
+    /*.CS_Home .CS_expand img.cs_expandimage{position: absolute; top:0; right: 10px; display: inline;}*/
+    
+    .CS_Home .cs_buttonshome{width: 100%; float: left;  top: 161px; left: 0px; height: 22px; position:absolute; }
+    .CS_Home .cs_buttonshome p{background-color: silver; margin-right: 15px; float: left; height: 20px; font-size:0.9em; font-weight: bolder; text-align: center; margin-top: 2px; padding-top: 4px;}
+    .CS_Home .cs_buttonshome p.readmore{background-color: #19325b; width: 100px; color: #fff;}
+    .CS_Home .cs_buttonshome p.back{background-color: #19325b; width: 170px; color: #fff;}
+    .CS_Home .cs_buttonshome p.download{background-color: #94adc1; width: 250px; color: #000;}
+    .CS_Home .cs_buttonshome p.watch{background-color: #94adc1; width: 150px; color: #000;}
+    .CS_Home .cs_buttonshome a:link
+    ,.CS_Home .cs_buttonshome a:visited
+    ,.CS_Home .cs_buttonshome a:active{color: #000; font-size: 1.0em;}
+     .CS_Home .cs_buttonshome a.more:link
+    ,.CS_Home .cs_buttonshome a.more:visited
+    ,.CS_Home .cs_buttonshome a.more:active
+    ,.CS_Home .cs_buttonshome a.back:link
+    ,.CS_Home .cs_buttonshome a.back:visited
+    ,.CS_Home .cs_buttonshome a.back:active{color: #fff;}   
+    
+        .CS_Home .cs_buttons{width: 100%; float: left; position: absolute; bottom:4px; left: 10px; height: 22px; }
+    .CS_Home .cs_buttons p{background-color: silver; margin-right: 15px; float: left; height: 20px; font-size:0.9em; font-weight: bolder; text-align: center; margin-top: 2px; padding-top: 4px;}
+    .CS_Home .cs_buttons p.readmore{background-color: #19325b; width: 100px; color: #fff;}
+    .CS_Home .cs_buttons p.back{background-color: #19325b; width: 170px; color: #fff;}
+    .CS_Home .cs_buttons p.download{background-color: #94adc1; width: 250px; color: #000;}
+    .CS_Home .cs_buttons p.watch{background-color: #94adc1; width: 150px; color: #000;}
+    .CS_Home .cs_buttons a:link
+    ,.CS_Home .cs_buttons a:visited
+    ,.CS_Home .cs_buttons a:active{color: #000; font-size: 1.0em;}
+     .CS_Home .cs_buttons a.more:link
+    ,.CS_Home .cs_buttons a.more:visited
+    ,.CS_Home .cs_buttons a.more:active
+    ,.CS_Home .cs_buttons a.back:link
+    ,.CS_Home .cs_buttons a.back:visited
+    ,.CS_Home .cs_buttons a.back:active{color: #fff;}   
