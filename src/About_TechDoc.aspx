@@ -6,14 +6,33 @@
 <div id="page">
     <h1>About the Portal</h1>
     <div id="left">
-        <h2>Technical Documentation</h2>
-        <h3>Site Documentation</h3>
-        <p class="aboutsection">This documentation describes exactly how the data behind the site was generated. <a href="About_Data.aspx">A more basic description of how the site was created and functions</a> is also available.</p>
+        <h2>Documentation</h2>
+        <h3>Data and Methodology</h3>
+        <p class="aboutsection">This documentation describes exactly how the Location Affordability Index is generated.</p>
+        <p>Version 2.1 (September 2016):</p>
         <ul class="aboutcontent">
-            <li><a href="LAPMethodsV2.pdf" target="_blank">The Location Affordability Index Version 2: Data and Methodology</a></li>
-            <li><a href="downloads/ModelingCode.pdf" target="_blank">Location Affordability Index: Modeling Code</a></li>
+            <li><a href="LAPMethodsV2.pdf" target="_blank">Location Affordability Index: Data and Methodology, Version 2.1</a></li>
+            <li>Data Extraction Code (F# scripts)
+                <ul>
+                    <li><a href="ACS_Master.fsx" target="_blank">ACS data</a></li>
+                    <li><a href="Fuel_Master.fsx" target="_blank">Regional Average Fuel Prices</a></li>
+                    <li><a href="Gravity_Master_v2.fsx" target="_blank">Local Employment Gravity Model building</a></li>
+                    <li><a href="Density_Master.fsx" target="_blank">Block and job density building</a></li>
+                    <li><a href="VMT_Master_v2.fsx" target="_blank">VMT model building</a></li>
+                    <li><a href="NHTS_Master.fsx" target="_blank">National Household Travel Survey</a></li>
+                </ul>
+            </li>
+            <li><a href="SEM_VMT_CODE_LAI Version 2.1.txt" target="_blank">Model Fitting Codes (R script)</a></li>
+            <li><a href="final_fit_v3.fsx" target="_blank">Model Running (Index Estimation) Code</a>(F# script)</li>
         </ul>
-        <p class="aboutsection">Documentation for Version 1 of the Location Affordability Index can be found <a href="LAPMethods.pdf" target="_blank">here</a>. For additional information see <a href="Help_FAQ.aspx">Technical FAQs</a>.</p>
+        <p>Version 2 (October 2014):</p>
+        <ul class="aboutcontent">
+            <li><a href="LAPMethodsV2.pdf" target="_blank">The Location Affordability Index Version 2: Data and Methodology</a> (technical)</li>
+            <li><a href="downloads/ModelingCode.pdf" target="_blank">Location Affordability Index: Modeling Code</a></li>
+            <li><a href="http://www.locationaffordability.info/About_Data.aspx" target="_blank">Data and methodology explanation</a> (general audience)</li>
+        </ul>
+        <p class="aboutsection">Version 1 (November 2013): <a href="LAPMethods.pdf" target="_blank">Data and Methodology Documentation</a>.</p>
+        <p>See also <a href="Help_FAQ.aspx">Technical FAQs</a>.</p>
 
         <h3>Research and Development</h3>
         <p class="aboutsection">The development process for this site included original research and analysis, input from an expert Technical Review Panel, an advisory group made of subject-matter experts from HUD, DOT, EPA, and the Treasury Department, and in-depth third-party reviews of different techniques.</p>

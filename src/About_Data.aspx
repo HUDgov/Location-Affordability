@@ -17,10 +17,11 @@
             <li><a href="#CalculatingTrans">Calculating Transportation Costs</a></li>
             <li><a href="#Bring">Bringing It All Together: The Location Affordability Index</a></li>
         </ul>
-
-        <p class="aboutsection">There’s more to affordability than how much you pay for housing. Transportation costs are the second-biggest budget item for most families and have an important and robust relationship with the location and cost housing. The <a href="lai.aspx">Location Affordability Index</a> offers a new perspective on affordability by showing users the combined cost of housing and transportation as a percentage of household income.</p>
+        <p><strong>Note: this explanation of the data and methodology behind the Location Affordability Index is specific to Version 2 of the LAI.</strong> While it has value as a lay-language narrative explanation and is broadly applicable to Version 2.1, data users should consult the full <a href="LAPMethodsV2.pdf" target="_blank">Version 2.1 documentation</a>.</p>
+        <p class="aboutsection">There’s more to affordability than how much you pay for housing. Transportation costs are the second-biggest budget item for most families and have an important and robust relationship with the location and cost housing. The <a href="lai.aspx">Location Affordability Index</a> offers a more holistic perspective on affordability by showing users the combined cost of housing and transportation as a percentage of household income.</p>
         <img src="images/laiformula.png" alt="Housing + Transportation = Location Affordability" />
-        <p class="aboutsection">Despite the simplicity of the concept, the Index is generated using an enormous amount of data and a series of complex analyses. This page walks through exactly what the Index is and how it is produced in general language (for a more technical description, please see the <a href="LAPMethodsV2.pdf" target="_blank">LAI Methodology</a>.) Note that this applies specifically to Version 2 of the LAI. Data and methodology documentation for Version 1 of the LAI can be found <a href="About_DataV1.aspx">here</a>.</p>
+        <p class="aboutsection">Despite the simplicity of the concept, the Index is generated using an enormous amount of data and a series of complex analyses. This page walks through in detail what the Index is and how it is produced in general language.</p>
+        <p>For a more technical description, please see the <a href="LAPMethodsV2.pdf" target="_blank">LAI Methodology</a>. Note that this document applies specifically to Version 2 of the LAI; data and methodology documentation for Version 1 of the LAI can be found <a href="About_DataV1.aspx">here</a>.</p>
     </div>
     <div id="right">
         <div id="imageblock_Mission">
@@ -33,11 +34,11 @@
         
         <a id="Overview"></a>
         <h3>Overview</h3>
-        <p class="aboutsectionlong">The goal of the Location Affordability Index is to give consumers access to reliable, standardized data on the cost of location to make more informed decisions about where to live and work.  There are four elements—explained in greater detail in the following sections—that must be grasped in order to fully understand what the Index is, what it says, and how it is produced.  They are:</p>
+        <p class="aboutsectionlong">The goal of the Location Affordability Index is to give consumers access to reliable, standardized data on the cost of location to make more informed decisions about where to live and work.  There are four elements—explained in greater detail in the following sections—that must be grasped in order to fully understand what the Index is, how it is produced, and and what it tells us.  They are:</p>
         <ul class="aboutcontent">
             <li><strong>Data sources</strong> – the Index is calculated using data from a number of different sources</li>
             <li><strong>Geographical scale</strong> – as with any informational resource used by consumers, the level of specificity makes a difference in how it can be used.  For instance, weather forecasts are precise to the zip code, but flooding advisories apply to entire counties, making them less precise and thus less useful.</li>
-            <li><strong>Prediction method</strong> – because there is no existing source of data that tells us what we’re interested in (the housing and transportation costs for a location, regardless of who lives there), we need to use existing data to make estimates. We do this using two types of <a href="LAPMethodsv2.pdf" target="_blank">statistical regression modeling</a>.</li>
+            <li><strong>Prediction method</strong> – because there is no existing source of data that tells us what we’re interested in (the housing and transportation costs for a location, regardless of who lives there), we need to use existing data to make estimates. We do this using two types of statistical regression modeling.</li>
             <li><strong>Components</strong> – the Index is expressed in terms of housing costs, transportation costs, and income.  These three components are derived in three different ways.
                 <ul>
                     <li>Housing costs – predicted using regression modeling</li>
@@ -62,7 +63,7 @@
 
         <a id="Geographic"></a>
         <h3>Geographic Scale</h3>
-        <p class="aboutsectionlong">Given currently available data, we are able to reliably estimate housing and transportation costs at the Census block-group level for the 94% of the U.S. population living in the 942 Metropolitan or Micropolitan Statistical Areas (i.e., Combined Base Statistical Areas or CBSAs).  <a href="http://www.census.gov/geo/reference/gtc/gtc_bg.html" target="_blank">Census block groups</a> have populations between 600 and 3,000 people. They vary in size depending on an area’s population density, ranging from only a few city blocks to the entirety of some rural counties. Block groups are the smallest geographical unit for which reliable data is available; they can generally be thought of as representing neighborhoods (bearing in mind the <a href="http://www.rand.org/content/dam/rand/pubs/drafts/2006/DRU2400.8.pdf" target="_blank">different ways people understand the concept of “neighborhood”</a>).</p>
+        <p class="aboutsectionlong">The LAI covers virtually every populated block group in the 50 states and the District of Columbia. <a href="http://www.census.gov/geo/reference/gtc/gtc_bg.html" target="_blank">Census block groups</a> generally have populations between 600 and 3,000 people. They vary in size depending on an area’s population density, ranging from only a few city blocks to the entirety of some rural counties. Block groups are the smallest geographical unit for which reliable data is available; they can generally be thought of as representing neighborhoods (bearing in mind the <a href="http://www.rand.org/content/dam/rand/pubs/drafts/2006/DRU2400.8.pdf" target="_blank">different ways people understand the concept of “neighborhood”</a>).</p>
         <p class="aboutsectionlong">For non-metropolitan areas that account for the balance of the population living in the 50 states and the District of Columbia, the LAI is calculated at the county level.  For simplicity, the remainder of this page will refer only to block groups, but all of the data and methodology described applies to non-metropolitan counties as well.</p>
         
         <a id="KeyConcept1"></a>

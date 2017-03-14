@@ -46,20 +46,10 @@
         </div>
     
     <div id="top_banner">
-        <div id="logotexttag"><img src="images/lap_logo_texttag.png" alt="Location Affordability Portal" /> <img src="images/version.png" alt="Version 2" id="beta" style="position: absolute; top:13px; left: 422px;" /></div>
+        <div id="logotexttag"><img src="images/lap_logo_texttag.png" alt="Location Affordability Portal" /></div>
 
         <div id="hud_logo"><a href="http://www.hud.gov" target="_blank" title="Department of Housing and Development"><img src="images/HUD_Logo3.png" alt="Department of Housing and Urban Development Logo" /></a></div>
         <div id="dot_logo"><a href="http://www.dot.gov" target="_blank" title="Department of Transportation"><img src="images/DOT_Logo3.png" alt="Department of Transportation Logo" /></a></div>
-        <div id="sc_logo"><a href="http://www.sustainablecommunities.gov" target="_blank" title="Sustainable Communities"><img src="images/SC_Logo.png" alt="Sustainable Communities Logo" /></a></div>
-       
-        <div id="usasearch">
-            <form method="get" action="http://search.usa.gov/search">  
-	            <input type="hidden" name="affiliate" value="housingandurbandevelopment" />  
-		        <label for="query-field">&nbsp;</label> 
-	            <input size="25" maxlength="256" type="text" name="query" id="query-field" class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all"/> 
-	            <input type="submit" value="Search" />
-            </form>
-        </div>
         
    <div id="usflag"><img src="images/usflag.gif" alt="US Flag" /></div>
    <div id="currentdate">
@@ -96,72 +86,21 @@
                              <td style="width: 22em"><a href="About.aspx">General</a></td>
                         </tr>
                         <tr>
-                             <td style="width: 22em"><a href="About_Background.aspx">Background</a></td>
-                        </tr>
-                        <tr>
-                             <td style="width: 22em"><a href="About_Data.aspx">Data & Methodology</a></td>
-                        </tr>
-                        <tr>
                              <td style="width: 22em"><a href="About_Development.aspx">Development</a></td>
                         </tr>
                         <tr>
-                             <td style="width: 22em"><a href="About_TechDoc.aspx">Technical Documentation</a></td>
+                             <td style="width: 22em"><a href="About_TechDoc.aspx">Documentation</a></td>
                         </tr>
                     </tbody>
                 </table>
             </li>
         </ul>    
     </li>
-    <li><a href="tcc.aspx">MY TRANSPORTATION COST CALCULATOR</a>
+    <li class="last"><a href="Help_Contact.aspx">HELP</a>
         <ul>
             <li style="background-image: url(images/mgrad.jpg);">
                 <table>
                     <tbody>
-
-                        <tr>
-                             <td style="width: 22em"><a href="about_tcc.aspx">About</a></td>
-                        </tr>
-                        <tr>
-                             <td style="width: 22em"><a href="tcc.aspx?url=/user_guide.php">User Guide</a></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </li>
-        </ul>    
-
-    </li>
-    <li><a href="lai.aspx">LOCATION AFFORDABILITY INDEX</a>
-        <ul>
-            <li style="background-image: url(images/mgrad.jpg);">
-                <table>
-                    <tbody>
-
-                        <tr>
-                             <td style="width: 22em"><a href="about_lai.aspx">About</a></td>
-                        </tr>
-                        <tr>
-                             <td style="width: 22em"><a href="lai.aspx?url=user_guide.php">User Guide</a></td>
-                        </tr>
-                        <tr>
-                             <td style="width: 22em"><a href="lai.aspx?url=download.php">Download Data</a></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </li>
-        </ul>    
-
-    </li>
-    <li><a href="vignettes.aspx">VIGNETTES</a></li>
-    <li><a href="resourcelibrary.aspx">RESOURCES</a></li>
-    <li class="last"><a href="help.aspx">HELP</a>
-        <ul>
-            <li style="background-image: url(images/mgrad.jpg);">
-                <table>
-                    <tbody>
-
-                         <tr>
-                             <td style="width: 22em"><a href="Help.aspx">User Guides</a></td>
-                        </tr>
                        <tr>
                              <td style="width: 22em"><a href="Help_FAQ.aspx">FAQ/Glossary</a></td>
                         </tr>

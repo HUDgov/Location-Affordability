@@ -21,14 +21,12 @@
         <h3><a href="#A20">Why is the Location Affordability Index (LAI) value for my neighborhood/city so different than what I expected?</a></h3>
         <h3><a href="#A21">Can the Location Affordability Index (LAI) tell me the location affordability for my specific address?</a></h3>
         <!--Phase 1 New Questions-->
-        <h3><a href="#A23">When using the My Transportation Cost Calculator (MTCC), where is user entered information stored?</a></h3>
         <h3><a href="#A24">How much of the US does the Location Affordability Index (LAI) cover?</a></h3>
         <!-- End Phase 1 New Questions -->
     </div>
         <h2>Technical</h2>
     <div id="faqlist2">
         <h3><a href="#B1">How was the geographic scale for the Location Affordability Index (LAI) chosen?</a></h3>
-        <h3><a href="#B2">How can I download Location Affordability Index (LAI) data?</a></h3>
         <h3><a href="#B3">Does the Location Affordability Index (LAI) reflect the cost of living for actual residents of a given block group?</a></h3>
         <h3><a href="#B4">What is the proper methodology for aggregating the Location Affordability Index (LAI) data to other geographies?</a></h3>
         <h3><a href="#B5">How frequently will the Location Affordability Portal be updated?</a></h3>
@@ -113,11 +111,6 @@
         The LAI models data at the Census block group level and reports on average housing and transportation costs at this geography. Address level data on housing and transportation costs is not available in the LAI. However, the <a href="tcc.aspx">My Transportation Cost Calculator</a> (MTCC) allows you to enter an address and customize data from the LAI by entering basic information about your household's income, housing, cars, and travel patterns.
     </p>
 
-    <a name="A23"></a><p class="faq_question">When using the My Transportation Cost Calculator (MTCC), where is user entered information stored?</p>
-    <p class="answer">
-    User information is not stored anywhere. User data remains persistent throughout the session within the browser memory, but is then deleted by the browser when the user closes the browser window or tab. Users may also delete their data by clicking on the Clear All link in the upper right corner of the MTCC.
-    </p>
-
     <a name="A24"></a><p class="faq_question">How much of the US does the Location Affordability Index (LAI) cover?</p>
     <p class="answer">
     The LAI covers the entire fifty states.
@@ -127,9 +120,6 @@
     
     <a name="B1"></a><p class="faq_question">How was the geographic scale for the Location Affordability Index (LAI) chosen?</p>
     <p class="answer">The LAI’s geographic scale was determined to reflect neighborhood conditions. The Census block group is the smallest geography for which there is ubiquitous, reliable data. One drawback of using American Community Survey (ACS) block group data is the high margins of error for some variables; however, this is considered an acceptable trade-off to provide the public this information resource.</p>
-    
-    <a name="B2"></a><p class="faq_question">How can I download Location Affordability Index (LAI) data?</p>
-    <p class="answer">LAI data is downloadable from the <a href="lai.aspx?url=download.php">Download Data</a> option under Location Affordability Index tab on the menu bar.</p>
     
     <a name="B3"></a><p class="faq_question">Does the Location Affordability Index (LAI) reflect the cost of living for actual residents of a given block group?</p>
     <p class="answer">The LAI reports modeled housing and transportation costs for eight household profiles. However, this does not imply that households matching any particular profile actually live in a given location. Instead, this is a prediction of what households with certain characteristics would have paid for housing and transportation costs during 2008 through 2012, the time period covered by the most recent American Community Survey (ACS) data release. See Note on interpreting housing costs estimates in <a href="About_lai.aspx"></a> the Index.</p>

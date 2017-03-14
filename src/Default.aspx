@@ -13,40 +13,26 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 <div id="page">
-    <p class="intro">Housing and transportation costs consume about half of the average household budget, but transportation costs are difficult to track and account for. The Location Affordability Portal provides estimates of household housing and transportation costs at the neighborhood level to help consumers, policymakers, and developers make more informed decisions about where to live, work, and invest.</p>
+    <p class="intro">Housing and transportation costs consume about half of the average household budget, but it can be difficult for people to fully factor transportation costs into decisions about where to live and worktransportation costs are difficult to track and account for. The <strong>Location Affordability Index (LAI)</strong> Portal provides works to close this gap by providing estimates of household housing and transportation costs at the neighborhood level along with constituent data on the built environment and demographics. to help consumers, policymakers, and developers make more informed decisions about where to live, work, and invest. This site provides access to that data as well as comprehensive documentation of how the Location Affordability Index has been developed and updated.  <strong>Please see the <a href="http://www.locationaffordability.info/About.aspx" target="_blank"></a>About page for information on recent changes to the site</strong>.</p>
 
 <div id="left">
     <div class="homesection">
-        <a href="tcc.aspx" class="cleanlink"><h2 class="sectionA">My Transportation Cost Calculator</h2></a>
-        <div class="homeleft"><img src="images/logo-tcc-trans.png" alt="My Transportation Cost Calculator" /></div>
+        <h2 class="sectionA">Access the Data</h2>
         <div class="homeright">
-            <p>My Transportation Cost Calculator generates transportation cost estimates based on user-entered information, providing  households, real estate professionals, and housing counselors customized, apples-to-apples comparisons of housing and transportation costs in different communities..</p>
-            <p><a href="tcc.aspx" style="color:#1b3a57; font-weight: bolder;" >Go to My Transportation Cost Calculator</a></p>
+            <p>The current and version of the Location Affordability Index can be accessed either as downloads or data services through HUD’s eGIS Storefront:</p>
+            <p><strong>Version 2.1 (September 2016)</strong> – uses 2010-2014 American Community Survey data</p>
+            <p><strong><a href="https://egis-hud.opendata.arcgis.com/datasets/27b53ea69f98474eb002ac3b9c6b51eb_0" target="_blank">Version 2.0 (October 2014)</a></strong> – uses 2008-2012 American Community Survey data</p>
         </div>
     </div>
 
     <div class="homesection">
-        <a href="lai.aspx" class="cleanlink"><h2 class="sectionB">Location Affordability Index</h2></a>
-         <div class="homeleft"><img src="images/logo-lai-trans.png" alt="Location Affordability Index" /></div>
+       <h2 class="sectionB">Documentation</h2>
         <div class="homeright">
-            <p>Developers, planners and policymakers can use the Location Affordability Index to make data-driven decisions about local and regional planning and investment. They can also use maps and data tools to help communicate with the public about different development scenarios.</p>
-            <p><a href="lai.aspx" style="color:#1b3a57; font-weight: bolder;" >Go to the Location Affordability Index</a></p>
+            <p><a href="LAPMethodsV2.pdf" target="_blank">Click here</a> for comprehensive methodological documentation for LAI Version 2.1. The <a href="http://www.locationaffordability.info/About_Development.aspx" target="_blank">Development</a> page gives significant additional detail on previous research, the development of the LAI, and important caveats for understanding and interpreting the data. The <a href="http://www.locationaffordability.info/About_TechDoc.aspx" target="_blank">Documentation page archives all documentation about the LAI including research conducted as part of the development of the Index and modeling code for researchers looking to replicate the LAI or create modified versions using different data inputs.</a></p>
         </div>
    </div>
     
-     <div class="homesection">
-        <a href="lai.aspx?url=download.php" class="cleanlink"><h2 class="sectionC">Data Users</h2></a>
-        <div class="homefull">
-            <p>All of the Index data is <b><a href="lai.aspx?url=download.php">available for download</a></b> by researchers, planners, and other users.  <!--In addition, the data has now been published as a <b><a href="http://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/LocationAffordabilityIndexData/FeatureServer" target="_blank">web service</a></b> for use by other web sites and app developers.--></p>
-            <p><a href="lai.aspx?url=download.php" style="color:#1b3a57; font-weight: bolder;" >Go to Data Download page</a> | <a href="http://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/LocationAffordabilityIndexData/FeatureServer" style="color:#1b3a57; font-weight: bolder;" target="_blank">Go to web service (Version 2 data)</a></p>
-        </div>
-    </div>       
-    </div>
-<div id="right">
-    <p class="bigjob">How much does housing and transportation cost your family?</p>
-    <img src="images/homepage_main2.jpg" alt="Calculator and paper on desk" />
 </div>
-
 </div>
 </asp:Content>
 
