@@ -43,8 +43,8 @@
                     infrastructure investments to make neighborhoods more prosperous, allow people to live closer to jobs, 
                     save households time and money, and reduce pollution. One objective of this collaboration is to increase 
                     public access to data on housing, transportation, and land use. EPA's Smart Location Database and 
-                    <a href="Hyperlink: http://www.epa.gov/ejscreen" target="_blank">EJSCREEN</a> tools and HUD’s 
-                    forthcoming <a href="http://affht.vsolvit.com/" target="_blank">AFFH Data Tool</a> are other resources 
+                    <a href="https://www.epa.gov/ejscreen" target="_blank">EJSCREEN</a> tools and HUD’s 
+                    forthcoming <a href="https://egis.hud.gov/Affht/" target="_blank">AFFH Data Tool</a> are other resources 
                     developed for this purpose.
                 </p>
                 <p class="aboutsection">
