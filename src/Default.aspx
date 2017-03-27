@@ -15,15 +15,12 @@
 <div id="page">
     <p class="intro">
         Housing and transportation costs consume about half of the average household budget, but it can be difficult 
-        for people to fully factor transportation costs into decisions about where to live and worktransportation 
-        costs are difficult to track and account for. The <strong>Location Affordability Index (LAI)</strong> Portal 
-        provides works to close this gap by providing estimates of household housing and transportation costs at the 
-        neighborhood level along with constituent data on the built environment and demographics. to help consumers, 
-        policymakers, and developers make more informed decisions about where to live, work, and invest. This site 
-        provides access to that data as well as comprehensive documentation of how the Location Affordability Index has 
-        been developed and updated. <strong>Please see the 
-        <a href="About.aspx">About</a> page for information on recent 
-        changes to the site</strong>.
+        for people to fully factor transportation costs into decisions about where to live and work. The 
+        <strong>Location Affordability Index (LAI)</strong> works to close this gap by providing estimates of 
+        household housing and transportation costs at the neighborhood level along with constituent data on the 
+        built environment and demographics. This site provides access to that data as well as comprehensive 
+        documentation of how the Location Affordability Index has been developed and updated. <strong>Please see the 
+        <a href="About.aspx">About</a> page for information on recent changes to the site</strong>.
     </p>
 
     <div id="left">
