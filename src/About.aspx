@@ -13,14 +13,6 @@
                 policymakers, and developers make more informed decisions about where to live, work, and invest.
             </p>
             <p class="aboutsection">
-                The Portal features two new cutting-edge tools — the <a href="lai.aspx">Location Affordability Index</a> and 
-                <a href="tcc.aspx">My Transportation Cost Calculator</a>—that illustrate from different perspectives how 
-                housing and transportation costs impact affordability. In addition to these decision-support tools, the Portal 
-                provides access to supporting resources that offer a wide range of information on current research and practice 
-                aimed at understanding, and ultimately reducing, the combined housing and transportation cost burden borne by 
-                American families.
-            </p>
-            <p class="aboutsection">
                 <strong>Note on recent changes</strong>. Due to resource constraints, HUD is no longer able to support the 
                 two data apps formerly available on this site: the map-driven Location Affordability Index app and My 
                 Transportation Cost Calculator. HUD will continue to update the LAI on an annual basis, which will allow 
@@ -72,7 +64,7 @@
             </p>
             <p>&nbsp;</p>
             <!-- Data Methodology Section -->
-            <h3>Data Methodology</h3>
+            <h3>Data & Methodology</h3>
             <p class="aboutsection">
                 <strong>Note: this explanation of the data and methodology behind the Location Affordability Index is specific to 
                 Version 2 of the LAI. While it has value as a lay-language narrative explanation and is broadly applicable 
@@ -147,10 +139,11 @@
                     U.S. Census Longitudinal Employment-Household Dynamics (LEHD) Origin-Destination Employment Statistics</a> 
                     (LODES) – detailed spatial distributions of workers' employment and residential locations and the relation 
                     between the two at the Census Block level and characteristic detail on age, earnings, industry distributions, 
-                    and local workforce indicators (see overview here). Here we use LODES and OnTheMap Version 6, which are built 
+                    and local workforce indicators (see overview <a href="http://lehd.ces.census.gov/applications/help/onthemap.html#!what_is_onthemap" target="_blank">
+                    here</a>). Here we use LODES and OnTheMap Version 6, which are built 
                     on 2010 Census data.</li>
                 <li><a href="http://www.ntdprogram.gov/ntdprogram/" target="_blank">National Transit Database</a> - over 660 
-                    transit providers who are recipients or beneficiaries of <a href="http://www.fta.dot.gov/">Federal Transit 
+                    transit providers who are recipients or beneficiaries of <a href="http://www.fta.dot.gov/" target="_blank">Federal Transit 
                     Administration</a> grants report annually on transit service and safety. We use the 2010 database, 
                     which corresponds to the middle year of the 2008-2012 ACS data.</li>
                 <li><a href="http://www.bls.gov/cex/" target="_blank">Consumer Expenditure Survey</a> – a set of ongoing surveys 
