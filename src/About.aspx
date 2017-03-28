@@ -92,7 +92,7 @@
             <p class="aboutsection">
                 For a more technical description, please see the <a href="LAPMethodsV2.pdf" target="_blank">LAI Methodology</a>. 
                 Note that this document applies specifically to Version 2 of the LAI; data and methodology documentation for 
-                Version 1 of the LAI can be found <a href="http://www.locationaffordability.info/About_DataV1.aspx">here</a>.
+                Version 1 of the LAI can be found <a href="About_DataV1.aspx">here</a>.
             </p>
             <h4>Overview</h4>
             <p class="aboutsection">
