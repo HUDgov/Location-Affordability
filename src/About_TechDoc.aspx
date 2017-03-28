@@ -29,7 +29,7 @@
         <ul class="aboutcontent">
             <li><a href="LAPMethodsV2.pdf" target="_blank">The Location Affordability Index Version 2: Data and Methodology</a> (technical)</li>
             <li><a href="downloads/ModelingCode.pdf" target="_blank">Location Affordability Index: Modeling Code</a></li>
-            <li><a href="http://www.locationaffordability.info/About_Data.aspx" target="_blank">Data and methodology explanation</a> (general audience)</li>
+            <li><a href="About_Data.aspx">Data and methodology explanation</a> (general audience)</li>
         </ul>
         <p>Version 1 (November 2013):</p>
         <ul class="aboutcontent">
