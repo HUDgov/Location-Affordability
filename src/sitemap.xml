@@ -2,27 +2,23 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>http://locationaffordability.info/default.aspx</loc>
-    <lastmod>2013-09-24</lastmod>
+    <lastmod>2017-04-05</lastmod>
   </sitemap>
   <sitemap>
     <loc>http://locationaffordability.info/about.aspx</loc>
-    <lastmod>2013-09-24</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>http://locationaffordability.info/about_background.aspx</loc>
-    <lastmod>2013-09-24</lastmod>
+    <lastmod>2017-04-05</lastmod>
   </sitemap>
   <sitemap>
     <loc>http://locationaffordability.info/about_data.aspx</loc>
-    <lastmod>2013-09-24</lastmod>
+    <lastmod>2017-04-05</lastmod>
   </sitemap>
   <sitemap>
     <loc>http://locationaffordability.info/about_development.aspx</loc>
     <lastmod>2013-09-24</lastmod>
   </sitemap>
   <sitemap>
-    <loc>http://locationaffordability.info/about_techcods.aspx</loc>
-    <lastmod>2013-09-24</lastmod>
+    <loc>http://locationaffordability.info/about_techdoc.aspx</loc>
+    <lastmod>2017-04-05</lastmod>
   </sitemap>
   <sitemap>
     <loc>http://locationaffordability.info/vignettes.aspx</loc>
@@ -58,7 +54,7 @@
   </sitemap>
   <sitemap>
     <loc>http://locationaffordability.info/help.aspx</loc>
-    <lastmod>2013-09-24</lastmod>
+    <lastmod>2017-04-05</lastmod>
   </sitemap>
   <sitemap>
     <loc>http://locationaffordability.info/help_contact.aspx</loc>
