@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 <style type="text/css">
     .homeleft{ float: left; height: 145px; margin-right: 20px;}
-    .homeright{width: 350px; float: left;}
+    .homeright{width: 650px; float: left;}
     .homeright p, .homefull p{font-size: 0.8em;}
     .homefull{width: 100%;}
     .cleanlink:hover {
@@ -23,7 +23,7 @@
         <a href="About.aspx">About</a> page for information on recent changes to the site</strong>.
     </p>
 
-    <div id="left">
+    <div>
         <div class="homesection">
             <h2 class="sectionA">Access the Data</h2>
             <div class="homeright">
