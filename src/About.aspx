@@ -5,21 +5,21 @@
     <div id="page">
         <h1>About the Portal</h1>
         <div id="left">
-            <p class="aboutsection">
+            <p class="aboutsectionlong">
                 There is more to housing affordability than how much rent or mortgage you pay. Transportation costs are 
                 the second-biggest budget item for most families, but it can be difficult for people to fully factor 
                 transportation costs into decisions about where to live and work. The Location Affordability Index (LAI) 
                 is user-friendly source of standardized data on combined housing and transportation costs to help consumers, 
                 policymakers, and developers make more informed decisions about where to live, work, and invest.
             </p>
-            <p class="aboutsection">
+            <p class="aboutsectionlong">
                 <strong>Note on recent changes</strong>. Due to resource constraints, HUD is no longer able to support the 
                 two data apps formerly available on this site: the map-driven Location Affordability Index app and My 
                 Transportation Cost Calculator. HUD will continue to update the LAI on an annual basis, which will allow 
                 interested policymakers, researchers, and web developers to use current data for new research and other 
                 applications going forward.
             </p>
-            <p class="aboutsection">
+            <p class="aboutsectionlong">
                 HUD and DOT are committed to engaging with the public to continually improve and expand this resource. Please 
                 email <a href="mailto:locationaffordability@hud.gov">locationaffordability@hud.gov</a> with any questions or 
                 comments.    
@@ -27,7 +27,7 @@
             <p>&nbsp;</p>
             <!-- Background Section -->
             <h3>Background</h3>
-            <p class="aboutsection">
+            <p class="aboutsectionlong">
                 The Location Affordability Portal is the product of a collaboration between HUD and the Department of 
                     Transportation (DOT) under the federal Partnership for Sustainable Communities. The Partnership, which 
                     includes the Department of Housing and Urban Development, the Department of Transportation, and the 
@@ -39,7 +39,7 @@
                     forthcoming <a href="https://egis.hud.gov/Affht/" target="_blank">AFFH Data Tool</a> are other resources 
                     developed for this purpose.
             </p>
-            <p class="aboutsection">
+            <p class="aboutsectionlong">
                 The prevailing standard of affordability in the United States is paying 30 percent or less of your family’s 
                     income on housing, which fails to account for for transportation costs. One reason is that transportation costs 
                     are a much bigger factor now than in the past. According to the Bureau of Labor Statistics, in the 1930's 
@@ -50,12 +50,12 @@
                     of budget impact. And for many-working class and rural households, transportation costs actually exceed 
                     housing costs.
             </p>
-            <p class="aboutsection">
+            <p class="aboutsectionlong">
                 Before this Portal, though, there was no accurate, standardized data source on household transportation 
                     expenses, which limited the ability of homebuyers and renters to fully account for the cost of living in a 
                     particular city or neighborhood. This site seeks to fill that gap.
             </p>
-            <p class="aboutsection">
+            <p class="aboutsectionlong">
                 Planners, policymakers, and developers also stand to benefit from access to this data when making decisions 
                     about land use, housing, transportation, and economic development. HUD and DOT have  engaged experts and key 
                     stakeholders from the fields of urban and transportation planning, affordable housing, and economic development 
