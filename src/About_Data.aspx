@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 <div id="page">
     <h1>About the Portal</h1>
-     <div id="left">
+     <div>
         <h2>Data & Methodology</h2>
         <ul class="aboutmenu">
             <li><a href="#Overview">Overview</a></li>
@@ -46,7 +46,7 @@
                 elements—explained in greater detail in the following sections—that must be grasped in order to fully 
                 understand what the Index is,  how it is produced, and what it tells us. They are:
             </p>
-            <ul class="aboutcontent">
+            <ul class="aboutdata">
                 <li><strong>Data sources</strong> – the Index is calculated using data from a number of different sources.</li>
                 <li>
                     <strong>Geographical scale</strong> – as with any informational resource used by consumers, the level of 
@@ -82,7 +82,7 @@
             <p class="aboutsectionlong">
                 In all, the Index draws from six different Federal data sources and Illinois state odometer readings:
             </p>
-            <ul class="aboutcontent">
+            <ul class="aboutdata">
                 <li><a href="http://www.census.gov/acs/www/" target="_blank">U.S. Census American Community Survey (ACS)</a> – 
                     an ongoing survey that generates data on community demographics, income, employment, transportation use, 
                     and housing characteristics. Here we use the 2008-2012 survey data.</li>
