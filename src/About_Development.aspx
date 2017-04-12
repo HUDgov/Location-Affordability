@@ -71,7 +71,7 @@
                 <li>Adding variables for local commercial amenities</li>
                 <li>Splitting population data by tenure (renter vs. homeowner)</li>
             </ul>
-<p class="aboutsection">These changes have resulted in a more sophisticated model with far more comprehensive geographical coverage: the inclusion of non-metropolitan areas allows the LAI to cover the entire populated area of the 50 states and the District of Columbia (contrasted to Version 1, which covered 94% of the U.S. population). See the detailed <a href="LAPMethodsV2.pdf" target="_blank">Data and Methodology for Version 2.1</a> (completed September 2016) for more information.</p>
+<p class="aboutsection">These changes have resulted in a more sophisticated model with far more comprehensive geographical coverage: the inclusion of non-metropolitan areas allows the LAI to cover the entire populated area of the 50 states and the District of Columbia (contrasted to Version 1, which covered 94% of the U.S. population). See the detailed <a href="LAPMethodsV2.1.pdf" target="_blank">Data and Methodology for Version 2.1</a> (completed September 2016) for more information.</p>
 
 
         <a id="Additional"></a>
