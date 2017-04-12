@@ -177,5 +177,8 @@
                 counties as well.
             </p>
         </div>
+	<div id="right">
+		<img src="images/LAI_Icon.jpg" alt="Location Affordability Index" />
+	</div>
     </div>
 </asp:Content>
