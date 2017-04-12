@@ -37,7 +37,7 @@
         <div class="homesection">
             <h2 class="sectionB">Documentation</h2>
             <div class="homeright">
-                <p><a href="LAPMethodsV2.pdf" target="_blank">Click here</a> for comprehensive methodological documentation for 
+                <p><a href="LAPMethodsV2.1.pdf" target="_blank">Click here</a> for comprehensive methodological documentation for 
                     LAI Version 2.1. The <a href="About_Development.aspx">Development</a> page
                      gives significant additional detail on previous research, the development of the LAI, and important 
                     caveats for understanding and interpreting the data. The <a href="About_TechDoc.aspx">Documentation</a> page 
