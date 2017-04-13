@@ -516,6 +516,10 @@ table#help span{font-weight: bolder; }
 .aboutcontent li ul{margin-top:5px;}
 .aboutcontent li ul li{font-size: 9pt;padding-bottom: 5px;}
 
+.aboutdata{margin: 10px 40px 0px 40px; padding:0; }
+.aboutdata li{font-size: 9pt; padding-bottom: 5px;}
+.aboutdata li ul{margin-top:5px;}
+.aboutdata li ul li{font-size: 9pt;padding-bottom: 5px;}
 
 table.abouttable{width: 800px; font-size: 0.8em; border-collapse: collapse; border-color: #183956; margin: 0 0;}
 table.abouttable td{font-size: 0.9em; border: #3C7499 solid 1px;}
