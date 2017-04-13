@@ -315,7 +315,7 @@ p.aboutsectionlong
 .sectionintro{font-size:9pt;    line-height: 18px; text-align: left;
 }
 
-#right{margin-left:18px; float: left; width: 410px; height: 100%; margin-top: 9px;}
+#right{margin-left:10px; float: left; width: 410px; height: 100%; margin-top: 9px;}
 #right .quoteauthor{font-size: 15pt; color: #183956; float:right;}
 
 /*---------------------------------------------------------------------------------------------*/
@@ -529,4 +529,9 @@ table.abouttable th{text-align: left; background-color: #3C7499; color: #fff; fo
     font-size: 0.8em;
     font-weight: bolder;
     font-family: Calibri;
+}
+
+.center-align {
+    padding-top: 50px;
+    text-align: center;
 }
