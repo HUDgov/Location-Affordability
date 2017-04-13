@@ -530,3 +530,8 @@ table.abouttable th{text-align: left; background-color: #3C7499; color: #fff; fo
     font-weight: bolder;
     font-family: Calibri;
 }
+
+.center-align {
+    padding-top: 50px;
+    text-align: center;
+}

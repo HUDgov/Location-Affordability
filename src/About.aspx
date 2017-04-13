@@ -5,21 +5,21 @@
     <div id="page">
         <h1>About the Portal</h1>
         <div id="left">
-            <p class="aboutsectionlong">
+            <p class="aboutsection">
                 There is more to housing affordability than how much rent or mortgage you pay. Transportation costs are 
                 the second-biggest budget item for most families, but it can be difficult for people to fully factor 
                 transportation costs into decisions about where to live and work. The Location Affordability Index (LAI) 
                 is user-friendly source of standardized data on combined housing and transportation costs to help consumers, 
                 policymakers, and developers make more informed decisions about where to live, work, and invest.
             </p>
-            <p class="aboutsectionlong">
+            <p class="aboutsection">
                 <strong>Note on recent changes</strong>. Due to resource constraints, HUD is no longer able to support the 
                 two data apps formerly available on this site: the map-driven Location Affordability Index app and My 
                 Transportation Cost Calculator. HUD will continue to update the LAI on an annual basis, which will allow 
                 interested policymakers, researchers, and web developers to use current data for new research and other 
                 applications going forward.
             </p>
-            <p class="aboutsectionlong">
+            <p class="aboutsection">
                 HUD and DOT are committed to engaging with the public to continually improve and expand this resource. Please 
                 email <a href="mailto:locationaffordability@hud.gov">locationaffordability@hud.gov</a> with any questions or 
                 comments.    
@@ -63,7 +63,7 @@
                     available on this site for the first time.
             </p>
         </div>
-	<div id="right">
+	<div id="right" class="center-align">
 		<img src="images/LAI_Icon.jpg" alt="Location Affordability Index" />
 	</div>
     </div>
