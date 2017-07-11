@@ -30,7 +30,7 @@
                 <p>The current and version of the Location Affordability Index can be accessed either as downloads or data 
                     services through HUD’s eGIS Storefront:</p>
                 <p><strong>Version 2.1 (COMING SOON)</strong> – uses 2010-2014 American Community Survey data</p>
-                <p><strong><a href=" https://egis-hud.opendata.arcgis.com/datasets/7dc10bc22f204e03bd0bebe257b5986d_0" target="_blank">Version 2.0 (October 2014)</a></strong> – uses 2008-2012 American Community Survey data</p>
+                <p><strong><a href="https://egis-hud.opendata.arcgis.com/datasets/37df61b54b34433fa0fbe59165e70e10_0" target="_blank">Version 2.0 (October 2014)</a></strong> – uses 2008-2012 American Community Survey data</p>
             </div>
         </div>
 
